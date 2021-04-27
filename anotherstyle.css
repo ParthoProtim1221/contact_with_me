@@ -1,0 +1,29 @@
+body {
+    padding-top: 8%;
+    width: 95%;
+    background-image: url("./abc.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: "Poppins", sans-serif;
+}
+
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+    display: inline-block;
+    margin: 40px 8px 10px 8px;
+    color: #cccccc;
+    padding-left: 40%;
+}
+a{
+    color: white;
+    text-decoration: none;
+    border-radius: 15px;
+    border: 1px solid white;
+    padding: 6px;
+    margin-left: 54%;
+    margin-top: 10px;
+    top: 100%;
+}
